@@ -1,6 +1,6 @@
 # Fast FLASH Interpolator
 
-What it does:
+Works by:
 
 - Searching tree structure to find the block containing a given point, this is fast.
 - Collecting the surrounding cell values needed for interpolation. They are few in number.
